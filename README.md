@@ -1,4 +1,4 @@
-# PONG
+# PONG_4_2
 ##A modification of the classic PONG Game that will allow 2-player mode
 ###When the game starts, you will be prompted to choose Two-Player Mode. Simply choose NO to begin the Classic Pong, and Yes to enter Two-Player Mode.
 
