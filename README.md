@@ -2,7 +2,7 @@
 A modification of the classic PONG Game that will allow 2-player mode
 When the game starts, you will be prompted to choose Two-Player Mode. Simply choose NO to begin the Classic Pong, and Yes to enter Two-Player Mode.
 
-[i]Controls for Player 1:                           Controls for Player 2:[/i]
+Controls for Player 1:                              Controls for Player 2:
   W to move the Racquet UP                          Up Arrow to move the Racquet UP           
   S to move the Racquet DOWN                        Down Arrow to move the Racquet DOWN
   Q to do the special move                              Page Down to do the special move
