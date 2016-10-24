@@ -7,20 +7,20 @@ _---new!---_
 
 *Controls for Player 1:*    
 
- ..* _W_ to move the Racquet UP    
+ _W_ to move the Racquet UP    
  
- ..* _S_ to move the Racquet DOWN    
+ _S_ to move the Racquet DOWN    
  
- ..* _Q_ to do the special move                              
+_Q_ to do the special move                              
 
 
 
 *Controls for Player 2:*
 
-..* _Up Arrow_ to move the Racquet UP  
+ _Up Arrow_ to move the Racquet UP  
 
-..* _Down Arrow_ to move the Racquet DOWN
+ _Down Arrow_ to move the Racquet DOWN
 
-..* _Page Down_ to do the special move
+ _Page Down_ to do the special move
  
 
