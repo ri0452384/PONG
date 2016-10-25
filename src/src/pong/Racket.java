@@ -5,7 +5,7 @@ import java.awt.Color;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.event.KeyEvent;
-
+//only used in the single player portion of the game. code was not modified except for the constructor
 public class Racket {
 	private static int Y;
 	private static final int WIDTH = 60;
@@ -35,6 +35,7 @@ public class Racket {
 	}
 
 	public void keyPressed(KeyEvent e) {
+		//event handling only involves left and right, same as the classic pong
 		if (e.getKeyCode() == KeyEvent.VK_LEFT)
 			xa = -game.speed;
 		if (e.getKeyCode() == KeyEvent.VK_RIGHT)
